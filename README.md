@@ -7,3 +7,5 @@ Data can be downloaded separately by the links below (it is taken from industry 
 hw_1, hw_2: https://drive.google.com/file/d/18vrkoFro4YfK5qSIDYbTIEhaylj2nyta/view?usp=sharing
 
 hw_3: no special data from the author is needed
+
+hw_4: data already in folder (sourse: https://nijianmo.github.io/amazon/index.html)
