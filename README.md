@@ -8,6 +8,6 @@ Inforamation about data requirements is listed below:
 
 (it is taken from industry - so, its anonymized)
 
-```hw_3:``` no special data from the author is needed```
+```hw_3:``` no special data from the author is needed
 
-```hw_4:``` data already in folder (sourse: https://nijianmo.github.io/amazon/index.html)```
+```hw_4:``` data already in folder (sourse: https://nijianmo.github.io/amazon/index.html)
