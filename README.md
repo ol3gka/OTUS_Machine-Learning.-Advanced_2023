@@ -6,7 +6,7 @@ Inforamation about data requirements is listed below:
 
 ```hw_1, hw_2:``` https://drive.google.com/file/d/18vrkoFro4YfK5qSIDYbTIEhaylj2nyta/view?usp=sharing
 
-Data can be downloaded separately by the links below (it is taken from industry - so, its anonymized)
+(it is taken from industry - so, its anonymized)
 
 ```hw_3:``` no special data from the author is needed```
 
