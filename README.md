@@ -16,4 +16,4 @@ Inforamation about data requirements is listed below:
 
 ```hw_6:``` no special data from the author is needed
 
-```hw_6:``` no special data from the author is needed
+```hw_7:``` no special data from the author is needed
