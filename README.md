@@ -15,3 +15,5 @@ Inforamation about data requirements is listed below:
 ```hw_5:``` data already in folder (sourse: "https://raw.githubusercontent.com/a-milenkin/Otus_HW_protein_expression/main/edges.csv", train, test)
 
 ```hw_6:``` no special data from the author is needed
+
+```hw_6:``` no special data from the author is needed
