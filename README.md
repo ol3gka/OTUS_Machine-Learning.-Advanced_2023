@@ -17,3 +17,5 @@ Inforamation about data requirements is listed below:
 ```hw_6:``` no special data from the author is needed
 
 ```hw_7:``` no special data from the author is needed
+
+```hw_8:``` [Link to Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)https://www.kaggle.com/c/house-prices-advanced-regression-techniques
