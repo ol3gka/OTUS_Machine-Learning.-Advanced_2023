@@ -19,3 +19,5 @@ Inforamation about data requirements is listed below:
 ```hw_7:``` no special data from the author is needed
 
 ```hw_8:``` data already in folder (sourse: [Link to Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques))
+
+```hw_9:``` no special data from the author is needed
